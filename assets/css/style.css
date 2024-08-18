@@ -519,7 +519,7 @@ body {
 .hero-title > strong { display: block; }
 
 .hero-text {
-  color: var(--onyx);
+  color: #fff;
   font-family: var(--ff-roboto);
   font-size: var(--fs-8);
   line-height: 1.8;
